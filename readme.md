@@ -10,4 +10,6 @@ This is my line of code after commit.Ok i have not seen the cahnges but i hope t
 
 
 
-Add a line from Git. You could also do that from another computer or a colleage could make this change. 
+Add a line from Git. You could also do that from another computer or a colleage could make this change.
+
+We will create a conflict here from the cloud. This is from my ATOM. 
