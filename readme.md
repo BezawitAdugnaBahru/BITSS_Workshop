@@ -8,6 +8,6 @@ Ok. Now i am going to take it to the second level by comiting, to see what exact
 
 This is my line of code after commit.Ok i have not seen the cahnges but i hope to be able to changes now, becouse i switch over to ATOM.
 
-Dose htis show up?
+
 
 Add a line from Git. You could also do that from another computer or a colleage could make this change. 
